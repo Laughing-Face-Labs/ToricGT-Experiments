@@ -1,3 +1,7 @@
+My view: Algebraic geometry points to the right path for model optimization. In my own work I’ve been exploring tensor decomposition and geodesic manifolds. I intend to tear down Dr. Schreiber’s model in comparison, as it could solve today’s scaling and power challenges. Yet the AI industry and large corporations ignore this research, persisting in scaling and burning what they assume is limitless capital, compute, and energy on the problem.
+
+Original Work By: Dr. Amelie Schreiber
+
 # ToricGT
 
 Author: Amelie Schreiber
